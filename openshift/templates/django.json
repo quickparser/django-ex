@@ -5,7 +5,7 @@
     "name": "django-example",
     "annotations": {
       "openshift.io/display-name": "Django",
-      "description": "An example Django application with no database. For more information about using this template, including OpenShift considerations, see https://github.com/sclorg/django-ex/blob/master/README.md.",
+      "description": "An example Django application with no database. For more information about using this template, including OpenShift considerations, see https://github.com/sclorg/django-ex/blob/master/README.md for more information.",
       "tags": "quickstart,python,django",
       "iconClass": "icon-python",
       "openshift.io/long-description": "This template defines resources needed to develop a Django based application, including a build configuration and application deployment configuration.  It does not include a database.",
